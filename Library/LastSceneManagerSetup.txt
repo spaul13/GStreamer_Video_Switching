@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GstUnityBridge/Test Scenes/Local-clip.unity
+  isLoaded: 1
+  isActive: 1
